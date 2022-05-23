@@ -1,0 +1,7 @@
+**/node_modules
+**/package-lock.json
+oauth2.keys.json
+.env
+build
+data.json
+logs
